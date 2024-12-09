@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '972396664960',
     projectId: 'appexlove-e7972',
     storageBucket: 'appexlove-e7972.appspot.com',
-    iosBundleId: 'com.example.datingapp',
+    iosBundleId: 'com.appexlove.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '972396664960',
     projectId: 'appexlove-e7972',
     storageBucket: 'appexlove-e7972.appspot.com',
-    iosBundleId: 'com.example.datingapp',
+    iosBundleId: 'com.appexlove.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(

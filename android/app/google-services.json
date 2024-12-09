@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:972396664960:android:b25e40942b206391c7ee65",
         "android_client_info": {
-          "package_name": "com.example.datingapp"
+          "package_name": "com.appexlove.app"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "972396664960-o23h6lpkvqjs6bblm08utchj1uicq9qb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.datingapp",
+            "package_name": "com.appexlove.app",
             "certificate_hash": "57595beb2b98365dd37b4615cfbaab043eeda607"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "972396664960-r35o85qq36dnrv9pg4emir2l1727v178.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.datingapp",
+            "package_name": "com.appexlove.app",
             "certificate_hash": "c409edc83fe3aa19ca308975c7b0821e3c54439b"
           }
         },
@@ -51,7 +51,7 @@
               "client_id": "972396664960-boiij8g0ebke1fdqt24rr7lgpslpqv9p.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.datingapp"
+                "bundle_id": "com.appexlove.app"
               }
             }
           ]
